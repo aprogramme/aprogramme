@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer with full-stack development skills, currently learning Generative AI and actively seeking job opportunities.
+Software Engineer with full-stack development skills, currently learning Generative AI and actively seeking job opportunities to begin a professional career in software engineering.
 
 
 ## 🌐 Socials:
