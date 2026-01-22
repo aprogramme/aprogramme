@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working as a Full Stack Developer<br><br>I’m actively seeking full-time job opportunities<br><br>I’m currently learning Generative AI<br><br> I’m open to collaborating on full-stack and AI-based projects<br><br> Ask me about Web Development, APIs, Databases, and AI basics<br><br>Fun fact: I enjoy turning ideas into real-world applications
+Software Engineer with full-stack development skills, currently learning Generative AI and actively seeking job opportunities.
 
 
 ## 🌐 Socials:
